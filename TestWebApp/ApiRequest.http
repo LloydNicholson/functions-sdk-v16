@@ -1,0 +1,3 @@
+### GET request with a header
+GET https://localhost:7027/?amount=2
+Accept: application/json

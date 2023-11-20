@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWebApp", "TestWebApp\TestWebApp.csproj", "{0C952AAF-B89C-4C48-99AE-A0AFD39B6971}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWebApp.Functions", "TestWebApp.Functions\TestWebApp.Functions.csproj", "{F3C2A84D-8E43-4C27-AD87-74E733E4269C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C952AAF-B89C-4C48-99AE-A0AFD39B6971}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C952AAF-B89C-4C48-99AE-A0AFD39B6971}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C952AAF-B89C-4C48-99AE-A0AFD39B6971}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C952AAF-B89C-4C48-99AE-A0AFD39B6971}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3C2A84D-8E43-4C27-AD87-74E733E4269C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3C2A84D-8E43-4C27-AD87-74E733E4269C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3C2A84D-8E43-4C27-AD87-74E733E4269C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3C2A84D-8E43-4C27-AD87-74E733E4269C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
